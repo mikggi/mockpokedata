@@ -1,5 +1,6 @@
-[
-  {
+{
+  "book":[
+    {
     "id": 100001,
     "title": "Venusaur",
     "type1": "Grass",
@@ -98,4 +99,6 @@
     "Evolution": "Jynx is the evolved form of Smoochum as of level 30.",
     "image": "https://static.wikia.nocookie.net/pokemon/images/a/a8/124.png"
   }
-]
+  
+  ]
+}
