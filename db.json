@@ -6,8 +6,8 @@
       "type1": "Grass",
       "type2": "Poison",
       "jpname": "Fushigibana",
-			"region": "Kanto",
-    	"funfact" : "Venusaur is the heaviest of the Kanto starter Pokémon.",
+      "region": "Kanto",
+      "funfact" : "Venusaur is the heaviest of the Kanto starter Pokémon.",
       "Evolution":"Venusaur evolves from Ivysaur at level 32. It can mega evolve into Mega Venusaur using the Venusaurite.",
       "image": "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png"
     },
@@ -40,7 +40,7 @@
       "type2": "Poison",
       "jpname": "Spear",
 			"region": "Kanto",
-    	"funfact" : "It's thought that Beedrill are not based off of bees, but the Asian Giant Hornet."
+    	"funfact" : "It's thought that Beedrill are not based off of bees, but the Asian Giant Hornet.",
       "Evolution":"Beedrill is the final evolution of Weedle and evolves from Kakuna at level 10. Beedrill gains a Mega Evolution in Omega Ruby and Alpha Sapphire.",
       "image": "https://static.wikia.nocookie.net/pokemon/images/5/5e/015.png"
     },
